@@ -1,0 +1,1 @@
+# Учебный проект по курсу "React Native и Expo Router" от сайта PuirpleSchool
